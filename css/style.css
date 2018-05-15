@@ -1,0 +1,23 @@
+#slide {
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    border: 3px solid #f2f2f2;
+}
+
+#slide ul {
+    width: 400%;
+    height: 200px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#slide li {
+    float: left;
+}
+
+#slide img {
+    width: 400px;
+    height: 200px;
+}
